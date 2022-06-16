@@ -524,6 +524,9 @@ section#partnership{
 .header__burger-menu{
     display: none;
 }
+.anchor-scroll{
+    color: currentColor;
+}
 @media (max-width:767px){
     .header__logo {
         flex: 0 0 50%;
